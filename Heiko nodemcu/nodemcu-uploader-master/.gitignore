@@ -1,0 +1,16 @@
+# python-stuff
+*.egg-info/
+.eggs
+dist/
+build/
+*.pyc
+
+# testing
+.coverage
+env/
+env3/
+*.log
+
+# editors
+.vscode/
+.tox
